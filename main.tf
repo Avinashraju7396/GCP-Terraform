@@ -5,7 +5,7 @@ terraform {
       version = "~> 5.0"
     }
   }
-} 
+}  
 
 provider "google" {
   project = "playground-s-11-fadf1fbb"
